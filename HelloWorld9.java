@@ -1,0 +1,6 @@
+class Integer
+{
+}
+class Runnable
+{
+}
